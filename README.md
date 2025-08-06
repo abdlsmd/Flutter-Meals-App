@@ -26,8 +26,6 @@ lib/
 │   ├── meal_item.dart
 │   ├── meal_detail_item.dart
 │   └── main_drawer.dart
-└── helpers/
-    └── (optional helper functions if needed)
 ```
 
 ## 📸 App Preview
@@ -55,6 +53,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 
 
 
